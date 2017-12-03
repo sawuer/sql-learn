@@ -1,0 +1,2 @@
+Dump:
+	pg_dump -U postgres -d newdb > newdb_dump.sql

@@ -6,3 +6,5 @@ SELECT * FROM ages;
 
 -- SELECT * FROM users 
 -- ORDER BY id DESC;
+
+-- SELECT users.name FROM users;
