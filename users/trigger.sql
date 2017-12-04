@@ -1,0 +1,1 @@
+CREATE or REPLACE FUNCTION myfunc()
